@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @megalcastro
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning languaje GO
+- 🌱 I’m currently learning languaje GO and languaje Rust
 - 💞️ I’m looking to collaborate on nodeJS,java,linux,javascript,redis,elasticsearch,mongoDB
 - 📫 How to reach me ...
 
